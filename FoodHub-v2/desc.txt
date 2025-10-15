@@ -1,0 +1,3 @@
+An upgraded version of FoodHub built with React.js and Redux for state management.
+Includes features like Add to Cart, Remove Item, Clear Cart, Calculate Total Price, and Search food from a local JSON file.
+Created for learning Redux concepts and building a simple e-commerce-like UI.

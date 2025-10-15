@@ -1,0 +1,3 @@
+A simple food recipe app built with React.js using TheMealDB API.
+Users can browse and view meal details.
+This project was created for learning React basics like components, props, and API fetching.
